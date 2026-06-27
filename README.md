@@ -184,3 +184,6 @@ Built as a portfolio project to demonstrate:
 - WebSocket protocol understanding
 - Frontend/Backend separation of concerns
 - Testability and clean code
+
+
+Maybe my upcoming flagship project
