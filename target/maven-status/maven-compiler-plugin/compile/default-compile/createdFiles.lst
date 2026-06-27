@@ -1,0 +1,17 @@
+com\chatapp\model\ChatRoom.class
+com\chatapp\service\ChatServiceImpl.class
+com\chatapp\model\SystemMessage.class
+com\chatapp\server\SessionManager.class
+com\chatapp\model\User$Builder.class
+com\chatapp\server\ChatWebSocketServer.class
+com\chatapp\model\Message.class
+com\chatapp\model\User$UserStatus.class
+com\chatapp\service\ChatService.class
+com\chatapp\model\SystemMessage$2.class
+com\chatapp\model\SystemMessage$SystemEvent.class
+com\chatapp\model\User.class
+com\chatapp\util\MessageParser.class
+com\chatapp\model\ChatMessage.class
+com\chatapp\model\SystemMessage$1.class
+com\chatapp\model\Message$MessageType.class
+com\chatapp\util\MessageParser$ParsedMessage.class
