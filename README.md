@@ -186,4 +186,4 @@ Built as a portfolio project to demonstrate:
 - Testability and clean code
 
 
-Maybe my upcoming flagship project
+Flagship project
